@@ -1,4 +1,18 @@
 header{
 background-color: #383D58;
 color: white;
+display: flex;
+justify-content: space-aound;
+padding:18px 0;
 }
+
+.cabecalho-imagem{
+  display: inline-block;
+  margin: 0 16 px;
+  padding: 10px 0;
+  font-size : 22px;
+}
+
+*{
+  margin: 0;
+  pandding: 0;
